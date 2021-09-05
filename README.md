@@ -8,6 +8,21 @@
 
 ---
 
+### Section 2 直線を表す Graph
+
+# 比例の式
+
+x と y が同じ割合で変化することを「y は、 x に比例する」と言い、
+![\begin{align*} \color{white}y=ax(a\neq0)
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7Dy%3Dax%28a%5Cneq0%29%0A%5Cend%7Balign%2A%7D%0A)
+
+という式で表す。
+
+<small>a は比例定数で![\begin{align*}
+\color{white}a = \frac{y}{x}
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7Da+%3D+%5Cfrac%7By%7D%7Bx%7D%0A%5Cend%7Balign%2A%7D%0A)で、求められる。</small>
 ### Section 5
 
 # ピタゴラスの定理
