@@ -20,14 +20,57 @@ x と y が同じ割合で変化することを「y は、 x に比例する」�
 
 という式で表す。
 
-<small>a は比例定数で
+a は比例定数で
 
 ![\begin{align*}
 \color{white}a = \frac{y}{x}
 \end{align*}
 ](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7Da+%3D+%5Cfrac%7By%7D%7Bx%7D%0A%5Cend%7Balign%2A%7D%0A)
 
-で、求められる。</small>
+で、求められる。(直線の傾き、変化の割合)
+
+## 直線を表す式
+直線が y 軸と交わる点を「切片」と言い、ここで直線の傾きを a、切片を b とすると平面上の直線はすべて
+
+![\begin{align*}
+\color{white}y = ax +b
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7Dy+%3D+ax+%2Bb%0A%5Cend%7Balign%2A%7D%0A)
+
+で、表すことができる。
+
+## (x,y)を通って傾きが a の直線の式
+
+![\begin{align*}
+\color{white} y = a(x - x_1) + y_1
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7D+y+%3D+a%28x+-+x_1%29+%2B+y_1%0A%5Cend%7Balign%2A%7D%0A)
+
+## 与えられた2点を通る直線の式
+
+![\begin{align*}
+\color{white} y= \frac{y_2-y_1}{x_2-x1}(x-x_1) +y_1 (x_1 \neq x_2)
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7D+y%3D+%5Cfrac%7By_2-y_1%7D%7Bx_2-x1%7D%28x-x_1%29+%2By_1+%28x_1+%5Cneq+x_2%29%0A%5Cend%7Balign%2A%7D%0A)
+
+### Sextion 4 垂直に交わる線
+## 2つの直線の傾きをa1、a2とすると、この2つの直線が直角に交わるときは
+
+![\begin{align*}
+\color{white} a_1a_2 = -1
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7D+a_1a_2+%3D+-1%0A%5Cend%7Balign%2A%7D%0A)
+
+が成立し、これを「垂直条件」と言う。
+
+## 線分の中点
+![\begin{align*}
+\color{white} ( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} )
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ccolor%7Bwhite%7D+%28+%5Cfrac%7Bx_1+%2B+x_2%7D%7B2%7D%2C+%5Cfrac%7By_1+%2B+y_2%7D%7B2%7D+%29%0A%5Cend%7Balign%2A%7D%0A)
+
+
+
 ### Section 5
 
 # ピタゴラスの定理
