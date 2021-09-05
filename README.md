@@ -14,4 +14,4 @@
 
 直角三角形の斜辺の長さの2乗は、残りの2辺の長さを2乗して足したものと等しい」という定理。
 
-![\begin{align*} c^2 = a^2 + b^2 \end{align*}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A++c%5E2+%3D+a%5E2+%2B+b%5E2%0A%5Cend%7Balign%2A%7D)
+![\begin{align*} \color{white}c^2 = a^2 + b^2 \end{align*}](https://render.githubusercontent.com/render/math?math=%5Clarge+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A++%5Ccolor%7Bwhite%7Dc%5E2+%3D+a%5E2+%2B+b%5E2%0A%5Cend%7Balign%2A%7D)
